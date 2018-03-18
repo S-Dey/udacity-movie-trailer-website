@@ -1,17 +1,17 @@
-import media 
+import media
 import fresh_tomatoes
 
 
 # Initialize Movie objects with data.
 
 the_terminator = media.Movie("The Terminator", 
-                        "1 hour 48 minutes",
-                        "The story of a cyborg sent past in time.", 
-                        "Sci-fi, Action",
-                        "26 October 1984",
-                        "8.0",
-                        "https://goo.gl/J8m6ww",
-                        "https://youtu.be/c4Jo8QoOTQ4")
+                            "1 hour 48 minutes",
+                            "The story of a cyborg sent past in time.", 
+                            "Sci-fi, Action",
+                            "26 October 1984",
+                            "8.0",
+                            "https://goo.gl/J8m6ww",
+                            "https://youtu.be/c4Jo8QoOTQ4")
 
 avatar = media.Movie("Avatar",
                      "2 hours 42 minutes",

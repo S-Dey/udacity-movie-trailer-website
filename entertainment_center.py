@@ -4,7 +4,7 @@ import fresh_tomatoes
 
 # Initialize Movie objects with data.
 
-the_terminator = media.Movie("The Terminator", 
+the_terminator = media.Movie("The Terminator",
                             "1 hour 48 minutes",
                             "The story of a cyborg sent past in time.", 
                             "Sci-fi, Action",
@@ -32,7 +32,7 @@ avengers3 = media.Movie("Avengers: Infinity War",
                         "https://goo.gl/YSEU5c",
                         "https://youtu.be/6ZfuNTqbHE8")
 
-maze_runner2= media.Movie("Maze Runner 2", 
+maze_runner2= media.Movie("Maze Runner 2",
                           "2 hours 13 minutes",
                           "Few selected ones save themselves from an organisation called WCKD.", 
                           "Sci-Fi, Dystopian, Adventure",  
@@ -41,7 +41,7 @@ maze_runner2= media.Movie("Maze Runner 2",
                           "https://goo.gl/8XtvMQ", 
                           "https://youtu.be/SDofO3P2HpE")
 
-thor_ragnarok = media.Movie("Thor Ragnarok", 
+thor_ragnarok = media.Movie("Thor Ragnarok",
                             "2 hours 10 minutes",
                             "Thor fights his evil sister, Hela, and saves Asgard.",
                             "Comedy, Fantasy, Action",
@@ -50,17 +50,17 @@ thor_ragnarok = media.Movie("Thor Ragnarok",
                             "https://goo.gl/5SkAsT",
                             "https://youtu.be/v7MGUNV8MxU")
 
-justice_league = media.Movie("Justice League", 
-                           "2 hours",
-                           "The Justice League assembles to defeat Darkseid.",
-                           "Action, Sci-Fi, Fantasy",
-                           "15 November 2017",
-                           "6.8",
-                           "https://goo.gl/x1BpEi",
-                           "https://youtu.be/r9-DM9uBtVI")
+justice_league = media.Movie("Justice League",
+                             "2 hours",
+                             "The Justice League assembles to defeat Darkseid.",
+                             "Action, Sci-Fi, Fantasy",
+                             "15 November 2017",
+                             "6.8",
+                             "https://goo.gl/x1BpEi",
+                             "https://youtu.be/r9-DM9uBtVI")
 
 # create a list of movie objects
-movies = [the_terminator, avatar, avengers3, maze_runner2, 
+movies = [the_terminator, avatar, avengers3, maze_runner2,
           thor_ragnarok, justice_league]
 
 # Create the webpage with the data inside movies list 

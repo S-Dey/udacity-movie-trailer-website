@@ -2,7 +2,7 @@ import media
 import fresh_tomatoes
 
 
-# Init movie objects with data
+# Initialize Movie objects with data.
 
 the_terminator = media.Movie("The Terminator", 
                         "1 hour 48 minutes",

@@ -27,7 +27,7 @@ udacity-movie-trailer-website/
 
  1. `entertainment_center.py` - Includes all the instances of the class `Movie` which basically define the movie information. Each instance defines the information of one movie. All the instances are passed as a list to the file`fresh_tomatoes.py` through the function `open_movies_page()` which generates an HTML Web page containing the list of movies along with their information.
 2.  `media.py` - Defines the class `Movie`.
-3. `fresh_tomatoes.py` - Defines the HTML structure for the website. The principal function is `open_movies_page()` which generates a static HTML Web page by taking instances from the class `Movie` defined in `media.py` as input.
+3. `fresh_tomatoes.py` - Defines the HTML structure for the website. The principal function is `open_movies_page()` which generates a static HTML Web page by taking a list instances of the class `Movie` defined in `media.py`.
 
 ## Steps to run this project
 

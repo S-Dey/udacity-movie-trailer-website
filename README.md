@@ -2,7 +2,7 @@
 ## About
 The Movie Trailer Website project consists of server-side code to store a list of movies titles, along with its respective box art imagery, and other information about them. The data is served as an HTML Web page allowing visitors to review the movies and watch the trailers.
 
-This project is being created as part of Udacity's Full-Stack Web Developer Nanodegree program. Your feedback is most welcome. 
+This project is being created as part of Udacity's [Full-Stack Web Developer Nanodegree](https://in.udacity.com/course/full-stack-web-developer-nanodegree--nd004) program. Your feedback is most welcome. 
 
 ## Demo
 A working demo of this project can be found over [here](https://sdey96.github.io/udacity-movie-trailer-website/fresh_tomatoes.html).

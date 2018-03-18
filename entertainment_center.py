@@ -43,7 +43,7 @@ maze_runner2= media.Movie("Maze Runner 2",
 
 thor_ragnarok = media.Movie("Thor Ragnarok",
                             "2 hours 10 minutes",
-                            "Thor fights his evil sister, Hela, and saves Asgard.",
+                            "Thor fights his evil sister, Hela, and saves Asgard from her.",
                             "Comedy, Fantasy, Action",
                             "3 November 2017",
                             "8.0",

@@ -21,6 +21,8 @@ main_page_head = '''
         body {
             padding-top: 80px;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-image: url('https://res.cloudinary.com/sdey96/image/upload/v1521394837/film-movie-motion-picture-390089_czuwvk.jpg');
+            background-repeat: no-repeat;
         }
         #trailer .modal-dialog {
             margin-top: 200px;
@@ -44,7 +46,7 @@ main_page_head = '''
         .movie-tile:hover {
             background-color: #FFF;
             cursor: pointer;
-            box-shadow: 0 0 25px rgba(0,0,0,0.15);
+            box-shadow: 0 0 40px rgba(0, 0, 0, 0.200);
             transition: box-shadow 0.3s ease-in-out;
         }
         .scale-media {
@@ -149,8 +151,8 @@ movie_tile_content = '''
     <p><span class="bold">Storyline: </span>{movie_storyline} <br>
     <span class="bold">Genre: </span>{movie_genre}<br>
     <span class="bold">Duration: </span>{movie_duration}<br>
-    <span class="bold">USA release date: </span>{movie_release}<br>
-    <span class="bold">IMDb Ratings: </span>{imdb_ratings}</p>
+    <span class="bold">USA Release Date: </span>{movie_release}<br>
+    <span class="bold">IMDb:&nbsp;<i class="fas fa-star"></i>&nbsp;</span>{imdb_ratings}</p>
 </div>
 '''
 

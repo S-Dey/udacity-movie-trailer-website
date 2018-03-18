@@ -2,7 +2,7 @@ import media
 import fresh_tomatoes
 
 
-# Initialize Movie objects with data.
+# Create instances of class `Movie` - for each movie.
 
 the_terminator = media.Movie("The Terminator",
                             "1 hour 48 minutes",
@@ -59,9 +59,9 @@ justice_league = media.Movie("Justice League",
                              "https://goo.gl/x1BpEi",
                              "https://youtu.be/r9-DM9uBtVI")
 
-# create a list of movie objects
+# Create a list of Movie instances.
 movies = [the_terminator, avatar, avengers3, maze_runner2,
           thor_ragnarok, justice_league]
 
-# Create the webpage with the data inside movies list 
+# Generate a Web page by passing the list of Movie instances.
 fresh_tomatoes.open_movies_page(movies)

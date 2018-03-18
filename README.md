@@ -54,4 +54,5 @@ udacity-movie-trailer-website/
 
 ## Support and Contact Info
 For any queries or kudos, you may reach out to me on [Twitter](https://twitter.com/SDey_96).
+
 If you are facing any trouble(s) with this project, you may create a new issue [here](https://github.com/SDey96/udacity-movie-trailer-website/issues). 

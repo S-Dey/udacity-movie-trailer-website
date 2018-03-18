@@ -148,10 +148,10 @@ movie_tile_content = '''
       <img src="{poster_image_url}" width="220" height="342">
       <h2>{movie_title}</h2>
     </div>
-    <p><span class="bold">Storyline: </span>{movie_storyline} <br>
-    <span class="bold">Genre: </span>{movie_genre}<br>
+    <p><span class="bold">About: </span>{movie_storyline} <br>
     <span class="bold">Duration: </span>{movie_duration}<br>
-    <span class="bold">USA Release Date: </span>{movie_release}<br>
+    <span class="bold">Genre: </span>{movie_genre}<br>
+    <span class="bold">Release Date: </span>{movie_release}<br>
     <span class="bold">IMDb:&nbsp;<i class="fas fa-star"></i>&nbsp;</span>{imdb_ratings}</p>
 </div>
 '''

@@ -5,10 +5,14 @@ class Movie():
     """ This class is used for storing information about the movies.
 
     Attributes:
-        - movie_release(str):     Release date.
-        - movie_main_actors(str): Main actors inside the movie.
-        - poster_image(str):      Urof the video poster image.
-        - trailer_youtube(str):   Url of the youtube trailer.
+        - movie_title            : Movie title.
+        - movie_duration         : Duration of the movie.
+        - movie_description      : Description of the movie.
+        - movie_genre            : Genre of the movie.
+        - movie_release          : Release date of the movie.
+        - movie_imdb_ratings     : Main actors inside the movie.
+        - poster_image           : URL of movie poster image.
+        - trailer_youtube        : URL of movie's YouTube trailer.
     """
 
     def __init__(self, movie_title, movie_duration, movie_description, 

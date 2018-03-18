@@ -1,6 +1,7 @@
 import media 
 import fresh_tomatoes
 
+
 # Init movie objects with data
 
 the_terminator = media.Movie("The Terminator", 
@@ -64,6 +65,3 @@ movies = [the_terminator, avatar, avengers3, maze_runner2,
 
 # Create the webpage with the data inside movies list 
 fresh_tomatoes.open_movies_page(movies)
-
-
-

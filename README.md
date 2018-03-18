@@ -36,6 +36,7 @@ udacity-movie-trailer-website/
  3. Open terminal, and clone this repository by the typing the following command:
  
  ```git clone https://github.com/SDey96/udacity-movie-trailer-website.git``` 
+ 
  4. Navigate to the directory`udacity-movie-trailer-website/`.
  5. Open a terminal in the aforementioned directory and type the following command:
   In Windows, type `python.exe .\entertainment_center.py` (Make sure first that Python is added to PATH.)

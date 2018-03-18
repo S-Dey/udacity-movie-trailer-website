@@ -9,7 +9,7 @@ toy_story = media.Movie("Toy story",
                         "Animation, Adventure, Comedy",
                         "22 November 1995",
                         "Tom Hanks, Tim Allen, Don Rickles",
-                        "http://bit.ly/1LYSb5Z", 
+                        "http://bit.ly/1LYSb5Z",
                         "https://www.youtube.com/watch?v=KYz2wyBy3kc")
 
 avatar = media.Movie("Avatar",

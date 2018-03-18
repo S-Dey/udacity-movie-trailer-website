@@ -150,7 +150,7 @@ movie_tile_content = '''
     <span class="bold">Genre: </span>{movie_genre}<br>
     <span class="bold">Duration: </span>{movie_duration}<br>
     <span class="bold">USA release date: </span>{movie_release}<br>
-    <span class="bold">Stars: </span>{movie_main_actors}</p>
+    <span class="bold">IMDb Ratings: </span>{imdb_ratings}</p>
 </div>
 '''
 
@@ -170,7 +170,7 @@ def create_movie_tiles_content(movies):
             movie_genre=movie.genre,
             movie_duration=movie.duration,
             movie_release=movie.release,
-            movie_main_actors=movie.main_actors,
+            imdb_ratings=movie.imdb_ratings,
             poster_image_url=movie.poster_image_url,
             trailer_youtube_id=trailer_youtube_id
         )

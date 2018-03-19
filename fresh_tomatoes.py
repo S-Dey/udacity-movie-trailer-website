@@ -161,7 +161,7 @@ movie_tile_content = '''
 def create_movie_tiles_content(movies):
     """Generate an HTML Web page with a list of movie titles.
 
-    Argument:
+    Arguments:
         - movies (list) : A list of instances of class `Movie`
                           defined in `media.py`.
     """
@@ -188,7 +188,12 @@ def create_movie_tiles_content(movies):
 
 
 def open_movies_page(movies):
-    """Open the Movie Trailer Website in the default browser."""
+    """Open the Movie Trailer Website in the default browser.
+    
+    Arguments:
+        - movies (list) : A list of instances of class `Movie`
+                          defined in `media.py`.
+    """
 
     # Create or overwrite the output file
     output_file = open('fresh_tomatoes.html', 'w')

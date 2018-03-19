@@ -34,7 +34,8 @@ avengers3 = media.Movie("Avengers: Infinity War",
 
 maze_runner2 = media.Movie("Maze Runner 2",
                            "2 hours 13 minutes",
-                           "Few selected ones save themselves from an organisation called WCKD.",
+                           "Few selected ones save themselves from "
+                           "an organisation called WCKD.",
                            "Sci-Fi, Dystopian, Adventure",
                            "18 September 2015",
                            "6.3",
@@ -43,7 +44,8 @@ maze_runner2 = media.Movie("Maze Runner 2",
 
 thor_ragnarok = media.Movie("Thor Ragnarok",
                             "2 hours 10 minutes",
-                            "Thor fights his evil sister, Hela, and protects Asgard from her.",
+                            "Thor fights his evil sister, Hela, "
+                            "and protects Asgard from her.",
                             "Comedy, Fantasy, Action",
                             "3 November 2017",
                             "8.0",
@@ -52,7 +54,8 @@ thor_ragnarok = media.Movie("Thor Ragnarok",
 
 justice_league = media.Movie("Justice League",
                              "2 hours",
-                             "The Justice League assembles to defeat Darkseid.",
+                             "The Justice League assembles to defeat "
+                             "Darkseid.",
                              "Action, Sci-Fi, Fantasy",
                              "15 November 2017",
                              "6.8",

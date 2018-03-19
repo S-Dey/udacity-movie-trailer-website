@@ -42,7 +42,7 @@ udacity-movie-trailer-website/
  
        In Windows, type 
          
-         python.exe .\entertainment_center.py` 
+         python.exe .\entertainment_center.py 
         
       (Make sure first that Python is added to PATH.)
   

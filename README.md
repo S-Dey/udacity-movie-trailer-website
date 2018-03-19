@@ -33,20 +33,20 @@ udacity-movie-trailer-website/
 
  1. Install the latest version of Python 3 from [here](https://www.python.org/downloads/) if not already installed.
  2. [Optional] Install Git from [here](https://git-scm.com/downloads). If you have downloaded the project manually, skip to step 4. Otherwise, follow the next step.
- 3. Open terminal, and clone this repository by the typing the following command:
+ 3. Open terminal, and clone this repository by typing the following command:
  
           git clone https://github.com/SDey96/udacity-movie-trailer-website.git
  
  4. Navigate to the directory `udacity-movie-trailer-website/`.
  5. Open a terminal in the aforementioned directory and type the following command:
  
-       In Windows, type 
+       If you are using Windows, then type 
          
          python.exe .\entertainment_center.py 
         
       (Make sure first that Python is added to PATH.)
   
-       In Linux, type 
+       If you are using Linux, then type 
          
          python3 entertainment_center.py
   

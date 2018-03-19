@@ -2,13 +2,13 @@
 ## About
 The Movie Trailer Website project consists of server-side code to store a list of movies titles, along with its respective box art imagery, and other information about them. The data is served as an HTML Web page allowing visitors to review the movies and watch the trailers.
 
-This project is being created as part of Udacity's [Full-Stack Web Developer Nanodegree](https://in.udacity.com/course/full-stack-web-developer-nanodegree--nd004) program. Your feedback is most welcome. 
+This project is being created as part of Udacity's [Full-Stack Web Developer Nanodegree](https://in.udacity.com/course/full-stack-web-developer-nanodegree--nd004) program. Your feedback about this project is most welcome. 
 
 ## Demo
 A working demo of this project can be found over [here](https://sdey96.github.io/udacity-movie-trailer-website/fresh_tomatoes.html).
 
 ## Requirements
-To run this program, you need to have the following applications installed:
+To run this program, you must have the following applications installed:
 1. The latest version of Python 3. It can be downloaded from [here](https://www.python.org/downloads/).
 2. [Optional] Git. It can be downloaded from [here](https://git-scm.com/downloads).
 
@@ -23,7 +23,7 @@ udacity-movie-trailer-website/
 ├── LICENSE
 └── README.md
 ```
-**Information about these Python files:**
+**Information about above Python files:**
 
  1. `entertainment_center.py` - Includes all the instances of the class `Movie` which basically define the movie information. Each instance defines the information of one movie. All the instances are passed as a list to the file`fresh_tomatoes.py` through the function `open_movies_page()` which generates an HTML Web page containing the list of movies along with their information.
 2.  `media.py` - Defines the class `Movie`.

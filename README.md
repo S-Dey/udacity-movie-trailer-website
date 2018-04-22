@@ -42,11 +42,10 @@ udacity-movie-trailer-website/
  4. Navigate to the directory `udacity-movie-trailer-website/`.
  5. Open a terminal in the aforementioned directory and type the following command:
  
-       If you are using Windows, then type 
-         
-         ```powershell 
+   If you are using Windows, then type 
+    ```powershell 
          python.exe .\entertainment_center.py
-         ```
+    ```
         
       (Make sure first that Python is added to PATH.)
   

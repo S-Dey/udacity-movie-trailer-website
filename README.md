@@ -35,23 +35,22 @@ udacity-movie-trailer-website/
  2. [Optional] Install Git from [here](https://git-scm.com/downloads). If you have downloaded the project manually, skip to step 4. Otherwise, follow the next step.
  3. Open terminal, and clone this repository by typing the following command:
  
- ```bash
-   git clone https://github.com/SDey96/udacity-movie-trailer-website.git
-```
+    ```bash
+    git clone https://github.com/SDey96/udacity-movie-trailer-website.git
+    ```
 
  4. Navigate to the directory `udacity-movie-trailer-website/`.
  5. Open a terminal in the aforementioned directory and type the following command:
- 
-   If you are using Windows, then type 
-    ```powershell 
-         python.exe .\entertainment_center.py
-    ```
-        
+      If you are using Windows, then type 
+      
+      ```powershell
+          python.exe .\entertainment_center.py
+      ```
       (Make sure first that Python is added to PATH.)
   
        If you are using Linux, then type 
          
-         python3 entertainment_center.py
+         `python3 entertainment_center.py`
   
   6. A Web page will open in your default browser with the list of your favourite movies. Enjoy!
 

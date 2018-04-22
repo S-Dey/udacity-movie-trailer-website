@@ -50,7 +50,9 @@ udacity-movie-trailer-website/
   
        If you are using Linux, then type 
          
-         `python3 entertainment_center.py`
+       ```bash
+       python3 entertainment_center.py
+       ```
   
   6. A Web page will open in your default browser with the list of your favourite movies. Enjoy!
 

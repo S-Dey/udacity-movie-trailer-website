@@ -35,8 +35,10 @@ udacity-movie-trailer-website/
  2. [Optional] Install Git from [here](https://git-scm.com/downloads). If you have downloaded the project manually, skip to step 4. Otherwise, follow the next step.
  3. Open terminal, and clone this repository by typing the following command:
  
-          git clone https://github.com/SDey96/udacity-movie-trailer-website.git
- 
+ ```bash
+   git clone https://github.com/SDey96/udacity-movie-trailer-website.git
+```
+
  4. Navigate to the directory `udacity-movie-trailer-website/`.
  5. Open a terminal in the aforementioned directory and type the following command:
  

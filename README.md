@@ -44,7 +44,9 @@ udacity-movie-trailer-website/
  
        If you are using Windows, then type 
          
-         python.exe .\entertainment_center.py 
+         ```powershell 
+         python.exe .\entertainment_center.py
+         ```
         
       (Make sure first that Python is added to PATH.)
   
